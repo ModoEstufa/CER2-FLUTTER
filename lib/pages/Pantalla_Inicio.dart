@@ -29,7 +29,7 @@ class PantallaInicio extends StatelessWidget {
                     icon: Icons.person_2_rounded,
                   ),
                   Button(
-                    onPressed: () => Navigator.pushNamed(context, '/Contratos'),
+                    onPressed: () => Navigator.pushNamed(context, '/PantallaEquipos'),
                     icon: Icons.assignment,
                   ),
                 ],
